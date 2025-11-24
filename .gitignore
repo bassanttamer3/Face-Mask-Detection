@@ -1,0 +1,9 @@
+*.pt
+runs/
+dataset/
+images/
+annotations/
+*.png
+*.jpg
+*.jpeg
+.ipynb_checkpoints/
